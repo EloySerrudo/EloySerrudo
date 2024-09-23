@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, My name is Eloy! 👋
 
-<!--
-**EloySerrudo/EloySerrudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Biomedical Engineering student passionate about computational neuroscience and software development for data analysis. I love exploring how technology can help us better understand the human brain. Some of the areas I am interested in include:
 
-Here are some ideas to get you started:
+- 📊 **Data analytics**: I enjoy working with large datasets and discovering hidden patterns.
+- 💻 **Python development**: I use Python to develop applications and perform neural model simulations.
+- 💻 **Development in R**: I learned how to use R at a bioinformatics internship at the Friedrich Schiller University in Jena.
+- 🧠 **Computational neuroscience**: I am learning about brain models and neural simulations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+- 🌍 [LinkedIn](https://www.linkedin.com/in/eloy-serrudo-careaga/)
+- 📧 Mail: [sce0017952@est.univalle.edu](mailto:sce0017952@est.univalle.edu)
+
+Feel free to contact me to collaborate or just to talk about science and technology!
